@@ -43,3 +43,7 @@ The figure below illustrates the closed-loop control system architecture of the 
 ## Future Work
 
 ## References
+MathWorks Documentation – Buck Converter Block
+https://www.mathworks.com/help/sps/ref/buckconverter.html
+
+
