@@ -49,4 +49,8 @@ https://www.mathworks.com/help/sps/ref/buckconverter.html
 EV Database – 2024 Cadillac Lyriq 600 E4 Specifications
 https://ev-database.org/car/2243/Cadillac-Lyriq-600-E4
 
+Panasonic Battery Group – NCR18500 Lithium-Ion Battery Datasheet
+https://www.alldatasheet.com/datasheet-pdf/pdf/597037/PANASONICBATTERY/NCR18500.html
+
+
 
