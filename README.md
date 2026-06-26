@@ -43,5 +43,3 @@ The figure below illustrates the closed-loop control system architecture of the 
 ## Future Work
 
 ## References
-
-## License
