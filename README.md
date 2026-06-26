@@ -1,10 +1,9 @@
 # Portable EV Charging System
 
 ## Abstract
-Imgine you own a EV vehcile, and it runs out of charge just right before appaoring the desitittion. Many people in a sittution like this, would either have to call a townring company to two it to the neasrst chagrign station whcih could cost a subtiantial amount of money over time, or they may have to call a EV chagrign compnay to charge the vehcile, but at the cost of more subtaintal costs and fees. Instead of all of this which takes time and a sighnfant amount of expense overtime if longer trips are regulauraly done, one could buy a Emergancy Portbale chagring stiton and storage it insde the EV vehcile itself, which can provide a temeprpy boost from at least 5-10 miles of range dpending on the tehcngoyl being used. 
+Imagine owning an electric vehicle (EV) that runs out of charge just before reaching your destination. In this situation, you may need to tow the vehicle to the nearest charging station or pay for a mobile EV charging service, both of which can be expensive and time-consuming. An emergency portable charging station stored inside the vehicle could provide enough temporary charge to safely reach the nearest charging station.
 
-In this project, I will demoneastre we will use simulink to model a ideal system of this problem we want to sovle. We will model it by considerding a closed loop control system where the Plant is out uniqque subsystem in this case A EV battery model with SOC estimation, the Actuttor or DC-DC buck converter to regulate power transfer, a closed-loop CC-CV controller for battery charging, thermal modling of both the EV battery, and Buck conevteer, SOC & CC-CV Logic using staeflow, and finally a feedback system to ensure contntous measruing of the systems outpout to the chosen refreance parmataer. 
-
+In this project, I develop a Simulink model of a portable EV charging system to address this problem. The system consists of an EV battery model (plant), a DC-DC buck converter (actuator), a closed-loop CC-CV charging controller, thermal models for the EV battery and buck converter, SOC and CC-CV logic using Stateflow, and a feedback system to continuously monitor and regulate the charging process.
 
 ## Project Objectives
 
