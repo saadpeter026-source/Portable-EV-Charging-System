@@ -1,6 +1,6 @@
 # Portable EV Charging System
 
-## Project Overview
+## Abstract
 
 ## Project Objectives
 
